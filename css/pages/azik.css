@@ -28,8 +28,8 @@ button {
     -moz-border-radius: 30%;
     -ms-border-radius: 30%;
     -o-border-radius: 30%;
-    -webkit-transform: scale(10px;
-    -moz-transform: scale(10px;
-    -ms-transform: scale(10px;
-    -o-transform: scale(10px;
+    -webkit-transform: scale(10px);
+    -moz-transform: scale(10px);
+    -ms-transform: scale(10px);
+    -o-transform: scale(10px);
 }
