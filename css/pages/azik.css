@@ -1,7 +1,11 @@
+.conrainer {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
 div {
     max-width: 500px;
-    padding: 0 20px;
-    margin: 0 auto;
     background-color: gray;
     border-radius: 25%;
     -webkit-border-radius: 25%;
